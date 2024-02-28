@@ -6,11 +6,13 @@ TagManager:
   tags:
   - CinemachineTarget
   - TrashBag
+  - Target
+  - PushObstacle
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Pushable
   - Water
   - UI
   - 
