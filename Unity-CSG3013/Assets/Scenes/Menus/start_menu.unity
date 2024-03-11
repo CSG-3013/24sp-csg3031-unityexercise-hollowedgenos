@@ -316,7 +316,7 @@ GameObject:
   - component: {fileID: 352420976}
   - component: {fileID: 352420975}
   m_Layer: 0
-  m_Name: Button
+  m_Name: UI_Play_BTN
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1469,7 +1469,7 @@ GameObject:
   - component: {fileID: 1585138495}
   - component: {fileID: 1585138494}
   m_Layer: 0
-  m_Name: UI_GameTitle_TXT
+  m_Name: UI_GameTitle_CVNS
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
